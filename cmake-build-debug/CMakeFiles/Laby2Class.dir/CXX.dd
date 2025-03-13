@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/Laby2Class.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/Laby2Class.dir/Book.cpp.obj: dyndep
+
+build CMakeFiles/Laby2Class.dir/Library.cpp.obj: dyndep
+
+build CMakeFiles/Laby2Class.dir/Library2.cpp.obj: dyndep
+
