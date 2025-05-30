@@ -1,5 +1,0 @@
-# 0 "C:/Users/48734/Documents/Studia/2 semestr/Programowanie Obiektowe/Laby2Class/Book.cpp"
-# 1 "C:\\Users\\48734\\Documents\\Studia\\2 semestr\\Programowanie Obiektowe\\Laby2Class\\cmake-build-debug//"
-# 0 "<built-in>"
-# 0 "<command-line>"
-# 1 "C:/Users/48734/Documents/Studia/2 semestr/Programowanie Obiektowe/Laby2Class/Book.cpp"
